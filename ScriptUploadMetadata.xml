@@ -17,7 +17,6 @@
     <FileEntry Name="Breakpoints.xml" Filter="2" />
     <FileEntry Name="ScriptVcsSettings.xml" Filter="2" />
     <FileEntry Name="UserTasks.xml" Filter="2" />
-    <FileEntry Name="test" Filter="2" />
     <FileEntry Name=".gitignore" Filter="1" />
     <FileEntry Name="Action.c.bak" Filter="1" />
     <FileEntry Name="custom_body_variables.txt" Filter="1" />
