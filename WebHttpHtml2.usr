@@ -54,3 +54,5 @@ LastReplayStatus=0
 [ActiveReplay]
 LastReplayedRunName=
 ActiveRunName=
+[ManuallyExtraFiles]
+ttttt=
